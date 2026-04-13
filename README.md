@@ -1,8 +1,15 @@
 # Exxxo Ito v0.0
 
-An exo-skeleton able to learn and then reproduce / augment human movements.
+![](img/pro.PNG)
 
-Do you want to learn how to exercise properly? Do you want to learn sign-language? Correct your posture? Recovering from an injury? Or maybe you're dreaming of perfecting a new dance move, performing it in-sync with your crew? Exxxo is what you need.
+_TL;DR: watch the presentation video: [Exxxo Ito v0.0 - Human Body API](https://www.youtube.com/watch?v=sFvh1IOV2EM)_
+
+Exxxo is a **Human Body API**. Or an exo-skeleton able to learn and then reproduce / augment human movements, depending on how you look at it. In its current form the API describes just 2 endpoints (or, in other words, these are the only 2 things the exo-skeleton can do at the moment):
+
+- **Bicep pull movement**
+- **Tricep push movement**
+
+So... Do you want to learn how to exercise properly? Do you want to learn sign-language? Correct your posture? Recovering from an injury? Or maybe you're dreaming of perfecting a new dance move, performing it in-sync with your crew? Exxxo is what you need.
 
 Here's my journey for the AR26 Hackathon.
 
@@ -949,3 +956,13 @@ Lol:
 ## 10.04.2026
 
 - [x] TODO: Change the project title to **Exxxo Ito: Human Body API**
+
+## 12.04.2026
+
+The end is at midnight GMT+1... Phew, I thought it's at midnight GMT. Nevertheless, my final video render has finished at **exactly 00:00** so I have another hour to upload all my shit. No more time typing, gotta finish...
+
+And... done! So happy.
+
+![](img/done.PNG)
+
+_Note: aparently running Photoshop with scratch disks from an external HDD, editing videos in OpenShot, editing audio in Ableton and listening to YouTube in the background while prompting Gemma4 via LMStudio - all of it simultaniously - can crash your mouse driver so that you can't drag'n'drop anymore... Such. a. nasty. Windows. bug. Especially when you have 20 minutes to finish and upload all of your work from the past 2 weeks :D Amen._
